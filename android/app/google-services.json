@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946414432173",
+    "project_id": "labfinal-87d78",
+    "storage_bucket": "labfinal-87d78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946414432173:android:286fa7cd199dafe5343b24",
+        "android_client_info": {
+          "package_name": "com.decoderfamily.labfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbuW-2Z6VTBFm4lihYnhtfUoG8R22JjEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
